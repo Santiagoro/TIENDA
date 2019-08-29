@@ -1,0 +1,30 @@
+body {
+    border-radius: 25px;
+    margin: 45px;
+    text-align: center;
+    box-shadow: #da2020;
+}
+header{ 
+    background-image: url("img/0123456.jpg");
+    padding: 20px;
+    background-color: #000000;
+}
+h1{
+    display: inline;
+    color: #ffffff;
+    padding: 20px;
+    width: 80px;
+}
+div{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 25px;
+}
+
+#logo{
+    display: inline;
+}
+
+#registrotienda{
+    display: inline;
+}
